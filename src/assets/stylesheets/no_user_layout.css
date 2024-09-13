@@ -1,0 +1,14 @@
+.no-user {
+    background-image: url('../images/no_user_background.jpg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    min-height: 100vh;
+  }
+  h1{
+    color: #0d6efd;
+    font-size: 65px;
+  }
+  h3{
+    color: #6a6a6a;
+  }
