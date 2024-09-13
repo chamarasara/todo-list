@@ -24,7 +24,7 @@ const TodoList = () => {
             <div className="d-flex justify-content-between align-items-center">
                 <div></div>
                 <Button onClick={() => handleShowModal(null)} className="float-end mb-3">
-                    Add Todo
+                <i className="bi bi-plus-lg"></i>  Add Todo
                 </Button>
             </div>
             {todos.length === 0 ? (
